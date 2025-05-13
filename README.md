@@ -1,5 +1,7 @@
 Proyecto Final de Redes II - La Restauración de la HoloRed Galáctica
 
+link: https://github.com/vitaliy-pg/examenredesfinal.git
+
 Este proyecto representa la entrega completa de las Misiones Prácticas del Examen Final de Redes II: "La Restauración de la HoloRed Galáctica", simuladas en Cisco Packet Tracer.
 
 🛰️ Misión 1: Reconexión en la Base Eco – Direccionamiento IP y Subredes
